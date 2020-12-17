@@ -23,4 +23,4 @@ node index
 
 ### Warning
 
-Do not use this module ta attack servers and services you don't own! It is only for testing purposes and not for unauthorized actions.
+Do not use this module to attack servers and services you don't own! It is only for testing purposes and not for unauthorized actions.
