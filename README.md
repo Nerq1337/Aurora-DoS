@@ -18,7 +18,7 @@ $ npm install prompts
 ### How to start:
 
 ```bash
-node index
+node AuroraDDoS
 ```
 
 ### Warning
