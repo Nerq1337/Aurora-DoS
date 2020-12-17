@@ -9,7 +9,7 @@ Install the module "Kira" with:
 $ npm install -g kira
 ```
 
-Install the module "Kira" with:
+Install the module "Prompts" with:
 
 ```bash
 $ npm install prompts
