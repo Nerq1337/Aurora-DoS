@@ -1,6 +1,6 @@
 # AuroraDDoS
 
-> DDoS Stress tool
+> DDoS Stress Tool
 
 ### Installation
 Install the module "Kira" with:
