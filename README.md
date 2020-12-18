@@ -26,7 +26,7 @@ $ npm install inquirer
 ### How to start:
 
 ```bash
-node Aurora
+$ node Aurora
 ```
 
 ### Warning ⚠️
