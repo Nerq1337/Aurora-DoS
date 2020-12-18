@@ -11,10 +11,10 @@ Install the module "Kira" with:
 $ npm install kira
 ```
 
-Install the module "Prompts" with:
+Install the module "Inquirer" with:
 
 ```bash
-$ npm install prompts
+$ npm install inquirer
 ```
 
 ### How to start:
