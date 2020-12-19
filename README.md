@@ -11,16 +11,10 @@ Git clone:
 $ git clone https://github.com/Nerq1337/AuroraDDoS.git
 ```
 
-Install the module "Kira" with:
+Install the modules with:
 
 ```bash
-$ npm install kira
-```
-
-Install the module "Inquirer" with:
-
-```bash
-$ npm install inquirer
+$ npm i
 ```
 
 ### How to start:
