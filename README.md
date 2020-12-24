@@ -2,7 +2,7 @@
 
 > DDoS Stress Tool
 
-![](https://i.pinimg.com/originals/9b/a1/39/9ba1397990cdb028f6560b46cf80ea99.gif)
+![](https://64.media.tumblr.com/b49864cb987a7e1612e1ae212f82ae80/tumblr_om0rryfUXr1rcufwuo1_540.gifv)
 
 ### Installation:
 Git clone:
